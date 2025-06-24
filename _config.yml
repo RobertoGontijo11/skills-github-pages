@@ -1,6 +1,4 @@
 theme: minima
- minima:
-  skin: dark
 title: Roberto's personal blog
 description: This is where I share cool stuff about my life, testing github pages mostly
 author: RobertoGontijo11
